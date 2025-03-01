@@ -1,1 +1,1 @@
-# teddy-bot
+# teddy-script
