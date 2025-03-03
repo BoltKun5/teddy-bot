@@ -1,1 +1,1 @@
-# teddy-script
+[Documentation](https://github.com/BoltKun5/teddy-bot)

@@ -11,17 +11,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://gitlab.com/teddy.git"
+        "url": "git+https://github.com/BoltKun5/teddy-bot"
     },
     "keywords": [],
     "author": "BoltKun x Scylla",
     "license": "ISC",
     "bugs": {
-        "url": "https://gitlab.com/teddy-script.git/issues"
+        "url": "https://github.com/BoltKun5/teddy-bot"
     },
-    "homepage": "https://gitlab.com/teddy.git#readme",
+    "homepage": "https://github.com/BoltKun5/teddy-bot",
     "dependencies": {
-        "@teddy-bot/main": "^1.0.16"
+        "@teddy-bot/main": "^1.0.22"
     },
     "devDependencies": {
         "@types/node": "^18.0.0",
