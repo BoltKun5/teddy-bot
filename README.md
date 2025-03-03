@@ -1,4 +1,4 @@
-**# teddy-script**# TeddyBot
+# TeddyBot
 
 **TeddyBot** est un bot MITM (Man-in-the-Middle) pour Dofus Unity. Il a été conçu pour aider les joueurs dans leurs aventures et intégration avec le jeu. Actuellement, TeddyBot permet de faire des chasses au trésor et intègre plusieurs systèmes de notifications anti-modérateur pour assurer une utilisation sécurisée.
 
@@ -37,6 +37,14 @@ Accéder à l'utilitaire TeddyUtils pour
 - Lire informations de votre bot (inventaire, détails, position...)
 
 > ⚠️ Veuilliez utiliser toujours la version la plus récente du package NodeJS
+
+1. Télécharger le script d'exemple ou cloner le répository
+2. Vérifier la version de `@teddy-bot/main` dans le fichier `package.json`
+3. Installer les dépendances avec `pnpm install`
+4. Générer le build avec la commande `pnpm build` dans un terminal à la racine
+5. Démarrer TeddyBot, connecter un bot et importer le script
+
+> ⚠️Lors de l'importation du script, veuillez bien choisir le fichier `dist/script.js`
 
 ```typescript
 import * as TeddyBotMain from '@teddy-bot/main';
