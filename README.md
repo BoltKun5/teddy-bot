@@ -4,6 +4,9 @@
 
 [Nous rejoindre sur Discord](https://discord.gg/9r4djqqQSm)
 
+![image](https://github.com/user-attachments/assets/d016b26d-b994-4a7c-bf77-0d93fe8b16c4)
+
+
 ### Fonctionnalités
 
 - **Chasses au Trésor** : Automatisation des quêtes de chasse au trésor, vous aidant à collecter des récompenses rapidement et efficacement.
