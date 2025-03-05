@@ -4,6 +4,9 @@
 
 [Nous rejoindre sur Discord](https://discord.gg/9r4djqqQSm)
 
+![image](https://github.com/user-attachments/assets/d016b26d-b994-4a7c-bf77-0d93fe8b16c4)
+
+
 ### Fonctionnalités
 
 - **Chasses au Trésor** : Automatisation des quêtes de chasse au trésor, vous aidant à collecter des récompenses rapidement et efficacement.
@@ -28,6 +31,7 @@
 **Ce dont vous n'avez pas besoin**
 - Une machine dédiée pour le bot car la souris n'est pas monopolisée
 - Une machine puissante car même si le client du jeu est lent, le socket MITM gère lui-même les paquets 🔥
+- Une configuration spécifique de l'interface Dofus 🤯
 
 > Nous mettons à disposition un paquet NodeJS [@teddy-bot/main](https://www.npmjs.com/package/@teddy-bot/main) permettant de vous faciliter l'intégration de script
 
