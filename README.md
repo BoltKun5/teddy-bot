@@ -57,9 +57,15 @@ export class TeddyScript
   // Webhook Discord pour être notifié automatiquement
   public discordAlertWebhook = null;
 
-  constructor(listener: any, teddyUtils: TeddyBotMain.ITeddyUtils, coreConfig: CoreConfig) {
-    super(listener, teddyUtils, coreConfig);
+  constructor(
+    listener: any,
+    teddyUtils: TeddyBotMain.ITeddyUtils,
+    coreConfig: CoreConfig,
+    internalListener: any,
+  ) {
+    super(listener, teddyUtils, coreConfig, internalListener);
   }
+
 
   // Déclencher une action lors d'un nouvel event
   public async onEvent(_event: TeddyBotMain.EventPayloadContent): Promise<void> {

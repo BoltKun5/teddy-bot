@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@teddy-bot/main':
-    specifier: ^1.0.22
-    version: 1.0.22
+    specifier: ^1.0.25
+    version: 1.0.25
 
 devDependencies:
   '@types/node':
@@ -226,8 +226,8 @@ packages:
     engines: {node: '>=v14.0.0', npm: '>=7.0.0'}
     dev: false
 
-  /@teddy-bot/main@1.0.22:
-    resolution: {integrity: sha512-gFiyUK6m7sUTwxzTSrPQY0JiCI0+DvEKR4lytCMSLODaUD47zwRM+LWJ+zoot4bhQ08u3lLQxft8X7FHS/BlYw==}
+  /@teddy-bot/main@1.0.25:
+    resolution: {integrity: sha512-umUgjMY408qjHvdsU799ZPO7wfQv5ZleJ8kWy5iMgJXtaaeNXk/jjWFN4Es97CHXgbivw+qs4hL1U8RykaGwOA==}
     dependencies:
       axios: 1.7.9
       axios-retry: 3.9.1
