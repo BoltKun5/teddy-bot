@@ -21,7 +21,7 @@
     },
     "homepage": "https://github.com/BoltKun5/teddy-bot",
     "dependencies": {
-        "@teddy-bot/main": "^1.0.26"
+        "@teddy-bot/main": "^1.0.27"
     },
     "devDependencies": {
         "@types/node": "^18.0.0",
