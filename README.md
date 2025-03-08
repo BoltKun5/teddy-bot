@@ -1,4 +1,5 @@
-# TeddyBot
+# TeddyBot ![Teddy_the_Dofus_bot_icon__slightly_robotic-removebg-preview (1)](https://github.com/user-attachments/assets/0b8bbca0-e0c3-4124-b44f-befcf9674e82) 
+
 
 **TeddyBot** est un bot MITM (Man-in-the-Middle) pour Dofus Unity. Il a été conçu pour aider les joueurs dans leurs aventures et intégration avec le jeu. Actuellement, TeddyBot permet de faire des chasses au trésor et intègre plusieurs systèmes de notifications anti-modérateur pour assurer une utilisation sécurisée.
 
