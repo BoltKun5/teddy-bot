@@ -33,6 +33,7 @@
 - Une machine dédiée pour le bot car la souris n'est pas monopolisée
 - Une machine puissante car même si le client du jeu est lent, le socket MITM gère lui-même les paquets 🔥
 - Une configuration spécifique de l'interface Dofus 🤯
+- Un Script LUA 🤮
 
 > Nous mettons à disposition un paquet NodeJS [@teddy-bot/main](https://www.npmjs.com/package/@teddy-bot/main) permettant de vous faciliter l'intégration de script
 
@@ -50,6 +51,8 @@ Accéder à l'utilitaire TeddyUtils pour
 5. Démarrer TeddyBot, connecter un bot et importer le script
 
 > ⚠️Lors de l'importation du script, veuillez bien choisir le fichier `dist/script.js`
+
+Vous pouvez également modifier le fichier `src/script.ts` pour créer votre propre script ! (pensez à générer le build avant d'importer le fichier dans TeddyBot !)
 
 ```typescript
 import * as TeddyBotMain from '@teddy-bot/main';
