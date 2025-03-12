@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@teddy-bot/main':
-        specifier: ^1.0.27
-        version: 1.0.29
+        specifier: ^1.0.30
+        version: 1.0.30
     devDependencies:
       '@types/node':
         specifier: ^20.11.0
@@ -154,8 +154,8 @@ packages:
     resolution: {integrity: sha512-jjmJywLAFoWeBi1W7994zZyiNWPIiqRRNAmSERxyg93xRGzNYvGjlZ0gR6x0F4gPRi2+0O6S71kOZYyr3cxaIQ==}
     engines: {node: '>=v14.0.0', npm: '>=7.0.0'}
 
-  '@teddy-bot/main@1.0.29':
-    resolution: {integrity: sha512-l+WAZkzvUQrTPOUdriE5tnuc34Ee75rV0WijXPoBcyeBQgjpxZuPAwf4V2qBteL6wVEjNruE5si6Ab1R9MTKZg==}
+  '@teddy-bot/main@1.0.30':
+    resolution: {integrity: sha512-NBO3h3EWa3gJVeKYfe/EFXGINANh3JCKeoaqJ7Lk2KlinHwco/4yRsSs4d6dvLWurp6iUTTqeHwm6bp/b7Xf1w==}
 
   '@tsconfig/node10@1.0.11':
     resolution: {integrity: sha512-DcRjDCujK/kCk/cUe8Xz8ZSpm8mS3mNNpta+jGCA6USEDfktlNvm1+IuZ9eTcDbNk41BHwpHHeW+N1lKCz4zOw==}
@@ -1606,7 +1606,7 @@ snapshots:
 
   '@sapphire/snowflake@3.5.3': {}
 
-  '@teddy-bot/main@1.0.29':
+  '@teddy-bot/main@1.0.30':
     dependencies:
       axios: 1.8.2
       axios-retry: 3.9.1
