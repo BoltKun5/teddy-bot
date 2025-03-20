@@ -61,8 +61,8 @@ L'extension ne demande ni n'utilise d'autorisations inutiles au-delà de ce qui 
 
 ## 10. Informations de Contact
 Pour toute question ou préoccupation concernant les règles de confidentialité de l'extension, les utilisateurs peuvent contacter le développeur à :
-- **Email** : [Votre Adresse Email]
-- **Site Web** : [Votre Site Web ou Page de Support]
+- **Serveur Discord communautaire** : [Discord](https://discord.gg/CXYv6EEM)
+- **Répertoire GitHub** : [GitHub](https://github.com/BoltKun5/teddy-bot)
 
 ---
 
